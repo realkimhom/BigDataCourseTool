@@ -1,4 +1,4 @@
 # BigDataCourseTool
 Tools for BigData
-pip install cvxpy
-pip intall CPLEX
+### pip install cvxpy
+### pip intall CPLEX
